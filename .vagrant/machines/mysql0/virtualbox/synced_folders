@@ -1,0 +1,1 @@
+{"virtualbox":{"/root/shared":{"guestpath":"/root/shared","hostpath":"/Users/mnovacyu/Vagrant/percona-cluster/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/mnovacyu/Vagrant/percona-cluster","disabled":false,"__vagrantfile":true}}}
